@@ -1,0 +1,174 @@
+{
+    "splashScreenButton" : "Get Started",
+    "splashScreenText" : "Protect yourself from Whatsapp phishing and fraud",
+
+
+    "loginScreen_emailField" : "Email",
+    "loginScreen_passwordField" : "Password",
+    "loginScreen_forgotPasswordText" : "Forgot your password?",
+    "loginScreen_signInButton" : "Sign In",
+    "loginScreen_createDividerText" : "Create",
+    "loginScreen_dontHaveAnAccountText" : "Don't have an account?",
+    "loginScreen_signUp" : "Sign Up",
+
+
+    "resetPasswordScreen_title" : "Enter your email to reset your password.",
+    "resetPasswordScreen_emailHint" : "Email",
+    "resetPasswordScreen_emptyEmailFieldWarning" : "Please enter an email",
+    "resetPasswordScreen_invalidEmailFieldWarning" : "Please enter a valid email",
+    "resetPasswordScreen_resetButton" : "Send reset email",
+
+
+    "signUpScreen_titleSignUpText" : "Sign Up",
+    "signUpScreen_titleText" : "Join FraudSense to start learning now",
+    "signUpScreen_surnameField" : "Your Surname",
+    "signUpScreen_emailField" : "Your Email",
+    "signUpScreen_usernameField" : "Your Username",
+    "signUpScreen_passwordField" : "Your Password",
+    "signUpScreen_confirmPasswordField" : "Confirm Password",
+    "signUpScreen_getStartedButton" : "Get Started",
+    "signUpScreen_alreadyAMember" : "Already a member?",
+    "signUpScreen_login" : "Login",
+
+    "signUpScreen_surnameFieldTitle" : "Your surname",
+    "signUpScreen_emailFieldTitle" : "Your Email",
+    "signUpScreen_UsernameFieldTitle" : "Your Username",
+    "signUpScreen_passwordFieldTitle" : "Choose a secure password",
+    "signUpScreen_confirmPasswordFieldTitle" : "Confirm your password",
+
+
+    "signUpScreen_enterSurnamePopUp" : "Please enter a surname",
+    "signUpScreen_enterEmailPopUp" : "Please enter valid email",
+    "signUpScreen_enterUsernamePopUp" : "Please enter a username",
+    "signUpScreen_enterPasswordPopUp" : "Please enter a password",
+    "signUpScreen_enterConfirmedPasswordPopUp" : "Please confirm your password",
+    "signUpScreen_passwordNotMatch" : "Password does not match",
+
+
+    
+    "firebaseAuthErrorCodes_invalid_credential": "The credentials you entered are not correct",
+    "firebaseAuthErrorCodes_invalid_email" : "The email you entered is invalid",
+    "firebaseAuthErrorCodes_user_not_found" : "The account you entered is not found",
+    "firebaseAuthErrorCodes_wrong_password" : "The password you entered is wrong",
+    "firebaseAuthErrorCodes_user_disabled" : "The account you're accessing is disabled",
+    "firebaseAuthErrorCodes_email_already_in_use" : "The email you entered is already in use",
+    "firebaseAuthErrorCodes_username_taken" : "The username you entered is already in use",
+    "firebaseAuthErrorCodes_weak_password" : "The password you entered is weak. It must be at least 8 characters long and contains one upper case and one lower case letters",
+    "firebaseAuthErrorCodes_long_username": "The maximum length of the username is 20 characters",
+
+
+    "signOutButton_PopUpTitle" : "Are you sure you want to sign out?",
+    
+
+    "frontTab_singedInAsText" : "Signed in as:",
+    "frontTab_welcomeText" : "Welcome back",
+
+    "frontTab_cardPlayGameTitle" : "Play a Game",
+    "frontTab_cardPlayGameDescription" : "Test your phishing detection skills",
+
+    "frontTab_cardLeaderboardTitle" : "View Leaderboard",
+    "frontTab_cardLeaderboardDescription" : "Compare your phishing detection skills with other players",
+
+    "frontTab_cardProgressTitle" : "View Progress",
+    "frontTab_cardProgressDescription" : "Track your progress and achievements",
+
+    "frontTab_statisticsTitle" : "Statistics",
+    "frontTab_statisticsDescription" : "Track your gameplay performance with detailed insights and analyze your progress",
+
+
+
+    "levelsTab_title" : "Levels",
+    "levelsTab_loading" : "Loading..",
+    "levelsTab_levelPopUpSelectedLevel" : "You selected level",
+    "levelsTab_levelPopUpLockedLevel" : "You haven't unlocked this level yet",
+    "levelsTab_levelPopUpStartLevel" : "Start level",
+
+    "profileTab_achievements" : "Achievements",
+    "profileTab_coins" : "Coins",
+    "profileTab_hints" : "Hints",
+    "profileTab_points" : "Points",
+    "profileTab_achievementsCompletedLevelsTitle" : "Completed Levels",
+    "profileTab_achievementsCompletedLevelsBottomText" : "Complete All Levels",
+    "profileTab_achievementsPointsTitle" : "Points Gained",
+    "profileTab_achievementsPointsBottomText1" : "Reach",
+    "profileTab_achievementsPointsBottomText2" : "Points",
+
+
+    "game_submitButton" : "Submit",
+    "game_popUpNext" : "Next",
+    "game_popUpQuit" : "Quit",
+    "game_popUpExit" : "Exit",
+    "game_popUpNextScenario" : "Next scenario",
+    "game_popUpReturnToGame" : "return to game",
+    "game_popUpViewMistakes" : "View mistakes",
+
+    "game_confirmQuit" : "Are you sure you want to quit?",
+
+    "game_popUpTimeRanOutTitle" : "Time has ran out!",
+
+
+    "game_popUpPauseTitle" : "You paused the game",
+    "game_popUpAlreadyFinishedScenario" : "You have finished this scenario",
+
+
+    "game_hintsPopUpShowHint" : "Show a hint",
+    "game_hintsPopUpBuyHint" : "Buy a hint",
+
+    "game_hintsPopUpTitle" : "Amount of hints left in your account:",
+    "game_hintsPopUpTitle1" : "Do you wish to use one now?",
+    "game_hintsPopUpAlreadyUnlocked" : "You already unlocked this hint",
+
+    "game_rightAnswer" : "you got it right! just in",
+    "game_rightAnswer1" : "seconds",
+
+    "game_wrongAnswer" : "You got it wrong!",
+
+    "game_endPopUpTitle" : "You finished the level, you got",
+    "game_endPopUpTitle1" : "answer(s) right out of",
+    "game_endPopUpTitleAllWrong" : "You finished the level, you got none of the questions right",
+
+    "game_mistakeSummaryPickedAnswer" : "You picked this answer",
+    "game_mistakeSummaryExplanation" : "Explanation",
+
+    "game_leaderboardTitle": "Leaderboard",
+    "game_leaderboardPoints": "Points",
+    "game_leaderboardUsername": "Username",
+
+
+    "statisticsScreen_generalTitleText": "General",
+    "statisticsScreen_streakTitleText": "Streak",
+    "statisticsScreen_levelsTitleText": "Levels",
+
+    "statisticsScreen_loggedDays": "Logged in days",
+    "statisticsScreen_ranking": "Ranking",
+    "statisticsScreen_currentStreak": "Current Streak",
+    "statisticsScreen_longestStreak": "Longest Streak",
+    "statisticsScreen_unlockedLevels": "Unlocked Levels",
+
+    "statisticsScreen_levelsListLevelTitle": "Level",
+    "statisticsScreen_levelsListFailsTitle": "Fails",
+    "statisticsScreen_levelsListSolveTimeTitle": "Solve Time",
+    "statisticsScreen_levelsListLevelNo": "No.",
+    "statisticsScreen_levelsListLevelFailTimes": "Times",
+    "statisticsScreen_levelsListTitle": "Completed Levels",
+
+    
+    "shopPopUp_canBuy": "Want to buy a hint for 75 coins?",
+    "shopPopUp_cantBuy": "You don't have enough coins to buy a hint",
+
+
+
+
+    "popUpReturn" : "return",
+    "popUpConfirm" : "Confirm",
+
+    "nextButton" : "Next",
+    "previousButton" : "Previous"
+
+
+
+
+
+
+
+}

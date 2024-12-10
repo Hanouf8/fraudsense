@@ -1,0 +1,19 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "disabled",
+    "cSpell.words": [
+        "Firestore",
+        "fraudsense",
+        "Leaderboard",
+        "precache"
+    ],
+    
+
+"dart.lineLength": 100,
+"[dart]": {
+    "editor.rulers": [
+        100
+    ],
+}
+
+}

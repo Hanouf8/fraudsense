@@ -1,0 +1,15 @@
+{
+    "availableHints": 3,
+    "email": " email@gmail.com",
+    "preferredLanguage": "arabic",
+    "surName": " surName",
+    "uid": "NGFIUDSHFGIUSDH34",
+    "unlockedHintsPerLevels": {
+        "1": [
+            false,
+            true
+        ]
+    },
+    "unlockedLevels": 10,
+    "userName": "userName"
+}

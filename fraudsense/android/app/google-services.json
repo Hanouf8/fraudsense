@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466904755184",
+    "project_id": "fraudsense-f6aee",
+    "storage_bucket": "fraudsense-f6aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466904755184:android:b51ced733a6b6e74bc8b35",
+        "android_client_info": {
+          "package_name": "com.example.fraudscene_refractored"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD2aOiUNTWCBnjpkutLojGW667Zpu9GOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466904755184:android:8b516921a091c0acbc8b35",
+        "android_client_info": {
+          "package_name": "com.example.fraudsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD2aOiUNTWCBnjpkutLojGW667Zpu9GOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

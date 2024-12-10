@@ -1,0 +1,1062 @@
+{
+  "language": "ar",
+  "levels": [
+    {
+      "index": 1,
+      "description": "المستوى 1: محاولات التصيد الاحتيالي العامة",
+      "scenarios": [
+        {
+          "scoreGainedOnCompletion": 5,
+          "startingCharacterMessage": "انظر بعناية واختر الإجابة الصحيحة قبل انتهاء الوقت. إذا واجهت صعوبة، يمكنك فتح تلميح. مرحبًا بك في المستوى الأول الذي يركز على محاولات التصيد الاحتيالي العامة. هل كنت على علم بأن هجمات التصيد الاحتيالي أصبحت أكثر انتشارًا في عصرنا الرقمي؟ وفقًا لتقرير عام 2022 من مركز شكاوى الجرائم الإلكترونية التابع لمكتب التحقيقات الفيدرالي، كان التصيد الاحتيالي من بين أفضل خمس جرائم إلكترونية على مدار 5 سنوات متتالية، مع أكثر من 240,000 حادثة وخسائر تتجاوز 52 مليون دولار. على الرغم من مظهرها البريء، يمكن أن تكون لهذه الرسائل عواقب وخيمة. من خلال تعلم كيفية تحديد وإحباط محاولات التصيد الاحتيالي الأساسية، يمكنك حماية نفسك وأحبائك من التهديدات الإلكترونية.",
+          "contactTitle": "+966 55 123 4567",
+          "receivedMessage": "تهانينا! تم اختيارك للحصول على بطاقة هدايا أمازون بقيمة 500 ريال سعودي. انقر هنا للحصول عليها:",
+          "receivedLink": "http://click-here-to-win.net/claim-your-prize",
+          "isVerifiedContact": false,
+          "messageTime": "9:00 صباحًا",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "رقم غير معروف",
+              "isCorrect": true,
+              "explanationWhenIncorrect": ""
+            },
+            {
+              "text": "رابط مشبوه",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "هذه الرسالة ليست محاولة احتيالية",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية باستخدام رابط مشبوه."
+            }
+          ],
+          "hint": "ابحث عن مؤشرات تحذيرية مثل الأرقام غير المعروفة والعروض التي تبدو جيدة جدًا لتكون حقيقية.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 10,
+          "startingCharacterMessage": "",
+          "contactTitle": "19992",
+          "receivedMessage": "إذا كنت مالك الطلب رقم 8987، فإن طردك في انتظارك! انقر هنا لتأكيد التسليم:",
+          "receivedLink": "https://splonline.com.sa/en/",
+          "isVerifiedContact": true,
+          "messageTime": "1:00 مساءً",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "إشعار تسليم طرد",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هل هذه محاولة تصيد احتيالي؟ إذا كان الأمر كذلك، ما هو المؤشر؟"
+            },
+            {
+              "text": "رابط مشبوه",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذا هو الرابط الرسمي للبريد السعودي SPL."
+            },
+            {
+              "text": "ليست محاولة تصيد احتيالي.",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            }
+          ],
+          "hint": "ابحث عن مؤشرات تحذيرية مثل الروابط غير المتوقعة أو الطلبات للحصول على معلومات شخصية، حتى لو ظهر أن الجهة المرسلة رسمية.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 15,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 56 543 2109",
+          "receivedMessage": "تهانينا! تم اختيارك للحصول على جائزة نقدية. انقر على الرابط للحصول عليها!",
+          "receivedLink": "http://cash-prize-win.com/claim",
+          "isVerifiedContact": false,
+          "messageTime": "5:30 مساءً",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "إشعار جائزة نقدية",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "ليست كل إشعارات الجوائز احتيالية."
+            },
+            {
+              "text": "رابط مشبوه",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية باستخدام رابط مشبوه."
+            }
+          ],
+          "hint": "إشعارات الجوائز النقدية من جهات غير معروفة يجب أن تثير الشك فورًا.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 20,
+          "startingCharacterMessage": "",
+          "contactTitle": "+963 57 234 5678",
+          "receivedMessage": "لقد لاحظنا نشاطًا غير عادي في حسابك البنكي. يرجى تأكيد بياناتك لتأمين حسابك.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "11:30 صباحًا",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "إشعار نشاط غير عادي",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "قد تكون هذه الإشعارات حقيقية."
+            },
+            {
+              "text": "طلب بيانات شخصية",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية تطلب معلومات حساسة."
+            }
+          ],
+          "hint": "الشركات الشرعية لن تطلب أبدًا معلومات حساسة عبر قنوات غير آمنة.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 25,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 55 123 4567",
+          "receivedMessage": "لقد تم اختيارك عشوائيًا للحصول على جهاز آيفون مجاني! أرسل عنوانك للحصول عليه.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "9:00 صباحًا",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "نبرة مستعجلة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "النبرة المستعجلة هي إحدى طرق التصيد، لكنها لم تكن في هذه الرسالة."
+            },
+            {
+              "text": "طلب معلومات شخصية",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية تطلب معلومات شخصية."
+            }
+          ],
+          "hint": "العروض التي تطلب منك تقديم معلومات شخصية غالبًا ما تكون احتيالية.",
+          "timeToSolveInSeconds": 45
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "description": "المستوى 2: انتحال العلامات التجارية",
+      "scenarios": [
+        {
+          "scoreGainedOnCompletion": 30,
+          "startingCharacterMessage": "انظر بعناية واختر الإجابة الصحيحة قبل انتهاء الوقت. إذا واجهت صعوبة، يمكنك فتح تلميح. مرحبًا بك في المستوى الثاني الذي يركز على انتحال العلامات التجارية. هل كنت تعلم أن انتحال العلامات التجارية هو شكل متطور من التصيد الاحتيالي يستغل ثقتنا في الشركات المشهورة؟ في عام 2020، تم اختراق تويتر وانتحال حسابات موثوقة، بما في ذلك حسابات بيل غيتس وإيلون ماسك، للترويج لعملية احتيال باستخدام البيتكوين. أدت الحادثة إلى سرقة أكثر من 100,000 دولار في غضون ساعات قليلة.",
+          "contactTitle": "+966 50 111 2222",
+          "receivedMessage": "عزيزي العميل، تم تعليق حسابك على نتفليكس بسبب مشكلات في الفوترة. يرجى التحقق من معلومات الدفع الخاصة بك هنا:",
+          "receivedLink": "http://netflix-0000000.com/billing",
+          "isVerifiedContact": false,
+          "messageTime": "9:00 صباحًا",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "تعليق الحساب",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "يمكن أن يحدث تعليق الحساب لأسباب حقيقية."
+            },
+            {
+              "text": "رابط مشبوه",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية باستخدام رابط مزيف."
+            }
+          ],
+          "hint": "تحقق دائمًا من تفاصيل المرسل والرابط قبل اتخاذ أي إجراء.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 35,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 53 444 5555",
+          "receivedMessage": "تم وضع علامة على حسابك في Google لنشاط مشبوه. يرجى الرد بكلمة المرور الخاصة بك للتحقق من هويتك.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "1:00 مساءً",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "طلب كلمة المرور",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "وضع علامة على الحساب",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "يمكن أن تحدث العلامات على الحساب لأسباب حقيقية."
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية تطلب معلومات حساسة."
+            }
+          ],
+          "hint": "لا تشارك كلمة المرور الخاصة بك أبدًا ردًا على الرسائل، حتى لو بدت عاجلة.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 40,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 52 333 4444",
+          "receivedMessage": "تم قفل معرف Apple الخاص بك بسبب نشاط مشبوه. يرجى الاتصال بهذا الرقم لإلغاء القفل: +966 12 345 6789.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "11:30 صباحًا",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "الاتصال لإلغاء القفل",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "لن تطلب منك الشركات الشرعية الاتصال لحل مشاكل الحساب."
+            },
+            {
+              "text": "قفل الحساب",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "يمكن أن تحدث مشكلات الحساب."
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية باستخدام رقم مزيف."
+            }
+          ],
+          "hint": "عادةً ما توفر الشركات الشرعية خيارات آمنة عبر الإنترنت لحل مشاكل الحساب.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 45,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 51 222 3333",
+          "receivedMessage": "تهانينا! لقد فزت ببطاقة هدايا أمازون بقيمة 100 ريال سعودي. فقط قم بالرد مع بريدك الإلكتروني للحصول عليها.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "10:15 صباحًا",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "إشعار الفوز",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إشعارات الفوز يمكن أن تكون حقيقية."
+            },
+            {
+              "text": "طلب تفاصيل شخصية",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية تطلب معلومات شخصية."
+            }
+          ],
+          "hint": "لا تقدم أبدًا معلومات شخصية للحصول على جوائز من مصادر غير معروفة.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 50,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 50 111 2222",
+          "receivedMessage": "مرحبًا، أنا إيلون ماسك! يحتاج حساب Tesla الخاص بك إلى التحقق الفوري. يرجى تأكيد التفاصيل الخاصة بك لتجنب التعليق.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "9:00 صباحًا",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "من شخصية مشهورة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "يمكن أن تكون الرسائل من المشاهير حقيقية، لكن السياق مهم."
+            },
+            {
+              "text": "طلب التحقق العاجل",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "الشركات الشرعية عادةً لا تضغط عليك للحصول على تأكيدات فورية."
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية باستخدام اسم شخصية مشهورة."
+            }
+          ],
+          "hint": "كن متشككًا في الطلبات العاجلة، حتى لو كانت من شخصيات معروفة.",
+          "timeToSolveInSeconds": 45
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "description": "المستوى 3: تكتيكات التخصيص",
+      "scenarios": [
+        {
+          "scoreGainedOnCompletion": 55,
+          "startingCharacterMessage": "مرحبًا بك في المستوى الثالث الذي يركز على تكتيكات التخصيص. هل كنت تعلم أنه في مايو 2023، وقع اختراق بيانات خطير في شركة Tesla أدى إلى كشف البيانات الشخصية لـ 75,000 فرد؟ هذا جعل العملاء عرضة لهجمات التصيد الاحتيالي بسبب تسريب المعلومات الحساسة. هذه الأساليب الموجهة، المعروفة باسم التصيد الموجه، خطيرة بشكل خاص لأنها يمكن أن تبدو مقنعة للغاية. تعلم اكتشاف هذه التكتيكات المخصصة ضروري لحماية خصوصيتك وأمانك.",
+          "contactTitle": "+966 54 555 6666",
+          "receivedMessage": "مرحبًا! حساب البلاك بورد الخاص بك في جامعة جدة معرض للخطر. يرجى إرسال كلمة مرور حسابك لتأمين الوصول.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "3:45 مساءً",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "الحساب معرض للخطر",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "تنبيهات الخطر قد تكون حقيقية."
+            },
+            {
+              "text": "طلب كلمة المرور",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "الشركات الشرعية لن تطلب منك كلمة المرور الخاصة بك."
+            },
+            {
+              "text": "مرحبًا!",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "التحيات العامة قد تظهر في الرسائل الحقيقية."
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إنها محاولة احتيالية."
+            }
+          ],
+          "hint": "تحقق دائمًا من تنبيهات الحساب من خلال تسجيل الدخول مباشرة عبر الموقع الرسمي.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 60,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 55 123 4567",
+          "receivedMessage": "عاجل: مساحة بريدك الإلكتروني في جامعة جدة ممتلئة. لتجنب فقدان الرسائل الأكاديمية المهمة، يرجى التحقق من حسابك هنا:",
+          "receivedLink": "https://www.uj.edu.xxsa1/",
+          "isVerifiedContact": false,
+          "messageTime": "9:05 صباحًا",
+          "question": "ما الذي يجعل هذه الرسالة محاولة تصيد احتيالي؟",
+          "answers": [
+            {
+              "text": "ذكر بريد جامعة جدة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "استخدام اسم المؤسسة الصحيح لا يضمن المصداقية."
+            },
+            {
+              "text": "تحذير بشأن امتلاء البريد الإلكتروني",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "تحذيرات امتلاء البريد الإلكتروني قد تكون مشروعة."
+            },
+            {
+              "text": "طلب التحقق من الحساب عبر رابط",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "عادةً لا تطلب أقسام تكنولوجيا المعلومات التحقق عبر روابط غير متوقعة."
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذه محاولة تصيد احتيالي باستخدام معلومات بريدك الجامعي."
+            }
+          ],
+          "hint": "يجب أن تأتي الاتصالات الرسمية حول الحسابات الجامعية عبر قنوات آمنة ومعروفة.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 65,
+          "startingCharacterMessage": "",
+          "contactTitle": "مكتبة جامعة جدة",
+          "receivedMessage": "مرحبًا، الكتاب الذي كنت تبحث عنه قد وصل! يرجى تزويدنا برقم هوية الطالب وتفاصيل بطاقة الائتمان لشرائه.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "10:17 صباحًا",
+          "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "معرفة الكتاب الذي كنت تبحث عنه",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "المكتبة تعلم الكتب التي نبحث عنها."
+            },
+            {
+              "text": "طلب تفاصيل بطاقة الائتمان",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "مكتبة الجامعة لن تطلب معلومات بطاقة الائتمان عبر الرسائل."
+            },
+            {
+              "text": "رابط مشبوه",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "لم يكن هناك رابط مشبوه."
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذه محاولة تصيد احتيالي تستغل استخدامك للمكتبة."
+            }
+          ],
+          "hint": "عادةً ما يتم التعامل مع المدفوعات عبر قنوات رسمية، وليس من خلال رسائل غير رسمية.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 70,
+          "startingCharacterMessage": "",
+          "contactTitle": "دعم موسم جدة",
+          "receivedMessage": "تهانينا! زيارتك الأخيرة إلى واجهة جدة البحرية كانت رقم 1000 اليوم. احصل على تصريح VIP مجاني لجميع فعاليات موسم جدة هنا:",
+          "receivedLink": "http://www.win-a-free-giftcard.com/claim",
+          "isVerifiedContact": false,
+          "messageTime": "8:45 صباحًا",
+          "question": "ما الذي يجعل هذه الرسالة مشبوهة؟",
+          "answers": [
+            {
+              "text": "ذكر واجهة جدة البحرية",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "الواجهة البحرية مكان شعبي؛ ذكرها لا يجعل الرسالة مشبوهة."
+            },
+            {
+              "text": "عرض تصريح VIP مجاني",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "الفعاليات تقدم أحيانًا جوائز، ولكن كن حذرًا من العروض غير المتوقعة."
+            },
+            {
+              "text": "الادعاء بتتبع زيارتك",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "عادةً لا يتتبع موسم جدة الزيارات الفردية للأماكن العامة."
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذه محاولة تصيد احتيالي باستخدام حدث محلي شعبي."
+            }
+          ],
+          "hint": "كن حذرًا من الجوائز غير المتوقعة التي تتطلب منك النقر على روابط، خاصةً عندما تدعي أنها تتبع تحركاتك.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 75,
+          "startingCharacterMessage": "",
+          "contactTitle": "خدمة عملاء رد سي مول",
+          "receivedMessage": "مرحبًا، لقد ربحت قسيمة تسوق بقيمة 5000 ريال في رد سي مول. فقط قدم لنا الرمز الذي تم إرساله إلى هاتفك.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "10:30 صباحًا",
+          "question": "ما هو المؤشر الرئيسي على أن هذه محاولة تصيد احتيالي؟",
+          "answers": [
+            {
+              "text": "رابط مشبوه",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "لا يوجد رابط في الرسالة."
+            },
+            {
+              "text": "عرض جائزة كبيرة.",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "المراكز التجارية تقدم أحيانًا عروضًا بجوائز كبيرة."
+            },
+            {
+              "text": "طلب المطالبة بالجائزة عبر إرسال رمز.",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "."
+            },
+            {
+              "text": "هذه الرسالة صحيحة.",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذه محاولة تصيد احتيالي متقنة باستخدام مركز تسوق شهير."
+            }
+          ],
+          "hint": "كن حذرًا من الجوائز الكبيرة غير المتوقعة، خاصةً عندما يتم المطالبة بها عبر رابط أو رمز بدلاً من الحضور شخصيًا.",
+          "timeToSolveInSeconds": 45
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "description": "المستوى 4: الإلحاح والتهديدات",
+      "scenarios": [
+        {
+          "scoreGainedOnCompletion": 80,
+          "startingCharacterMessage": "مرحبًا بكم في المستوى 4 الذي يركز على الإلحاح والتهديدات. هل تعلم أن PayPal، أحد أكبر أنظمة الدفع عبر الإنترنت، تعرض لهجوم من قبل القراصنة لسرقة معلومات حسابات العملاء؟ يقوم المجرمون بإرسال آلاف الرسائل الإلكترونية محاولين إخافة المستخدمين بنبرة عاجلة، تدعي أنه يجب عليهم تقديم معلوماتهم أو سيتم إغلاق حساباتهم ما لم يتصرفوا بسرعة وينقروا على رابط. يتمكن المجرمون الإلكترونيون بعد ذلك من استخدام هذه المعلومات لسرقة الأموال من حسابات PayPal الخاصة بالمستخدمين.",
+          "contactTitle": "شرطة مرور جدة",
+          "receivedMessage": "عاجل: تم ضبط مركبتك وهي تتجاوز السرعة على طريق الملك عبدالله. يرجى دفع الغرامة البالغة 500 ريال سعودي خلال ساعة واحدة لتجنب تعليق الرخصة:",
+          "receivedLink": "http://www.fakebank.com/security-alert",
+          "isVerifiedContact": false,
+          "messageTime": "7:15 صباحًا",
+          "question": "ما هو المؤشر الرئيسي الذي يدل على أن هذه الرسالة قد تكون احتيالية؟",
+          "answers": [
+            {
+              "text": "ذكر تفاصيل محددة عن المركبة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "أنظمة المرور لديها وصول إلى معلومات المركبة."
+            },
+            {
+              "text": "الإشارة إلى موقع انتهاك محدد",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "المخالفات المرورية الحقيقية غالبًا ما تتضمن تفاصيل الموقع."
+            },
+            {
+              "text": "المطالبة بالدفع خلال ساعة واحدة",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "الغرامات الرسمية لا تتطلب دفعًا فوريًا بهذه الطريقة، خاصةً عبر رسالة نصية."
+            },
+            {
+              "text": "هذه الرسالة حقيقية",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذه عملية احتيال تستخدم الإلحاح للضغط عليك لاتخاذ إجراء سريع."
+            }
+          ],
+          "hint": "الغرامات المرورية الرسمية تمنح وقتًا معقولًا للسداد وتستخدم قنوات رسمية، وليس روابط رسائل نصية مستعجلة.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 85,
+          "startingCharacterMessage": "",
+          "contactTitle": "خدمة عملاء STC",
+          "receivedMessage": "تحذير: سيتم إنهاء خدمتك الجوالة خلال 30 دقيقة بسبب نشاط مشبوه. قم بتأكيد هويتك فورًا لتجنب الفصل:",
+          "receivedLink": "http://www.Verify-your-account.com/login",
+          "isVerifiedContact": false,
+          "messageTime": "7:45 صباحًا",
+          "question": "ما الذي يجعل هذه الرسالة مشبوهة؟",
+          "answers": [
+            {
+              "text": "ذكر نشاط مشبوه",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "مزودو الخدمة يراقبون النشاط غير المعتاد."
+            },
+            {
+              "text": "التحذير من انقطاع الخدمة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "قد تعلق الخدمة لأسباب أمنية، لكن ليس بهذه السرعة."
+            },
+            {
+              "text": "المطالبة بالتحقق الفوري عبر رابط",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "المزودون الشرعيون يطلبون منك التواصل مباشرة أو تسجيل الدخول إلى حسابك، وليس عبر رابط."
+            },
+            {
+              "text": "هذه الرسالة صحيحة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذه محاولة احتيال تستخدم تهديد انقطاع الخدمة لاستفزاز اتخاذ إجراء سريع."
+            }
+          ],
+          "hint": "مزودو الخدمة الحقيقيون يمنحون وقتًا أطول ويستخدمون قنوات رسمية للتحقق من الهوية.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 90,
+          "startingCharacterMessage": "",
+          "contactTitle": "أمن بنك الراجحي",
+          "receivedMessage": "حرج: تم اكتشاف تحويل غير عادي بقيمة 10,000 ريال سعودي من حسابك. إذا لم يكن هذا منك، انقر هنا لإيقاف بطاقتك فورًا:",
+          "receivedLink": "http://www.g00gle.com/verify",
+          "isVerifiedContact": false,
+          "messageTime": "11:20 صباحًا",
+          "question": "على الرغم من الإلحاح، ما الذي يشير إلى أن هذا قد يكون محاولة احتيال؟",
+          "answers": [
+            {
+              "text": "ذكر مبلغ محدد",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "البنوك تقوم بتنبيهك بشأن معاملات مشبوهة."
+            },
+            {
+              "text": "التحذير بشأن تحويل غير عادي",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "البنوك ترسل تنبيهات حول الأنشطة المحتملة الاحتيالية."
+            },
+            {
+              "text": "تقديم رابط مباشر لإيقاف البطاقة",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "البنوك الشرعية تطلب منك تسجيل الدخول مباشرة إلى حسابك أو الاتصال برقمهم الرسمي، وليس النقر على رابط."
+            },
+            {
+              "text": "هذه الرسالة حقيقية",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذه محاولة احتيال متقنة تستخدم الخوف المالي لتحفيز اتخاذ إجراء سريع."
+            }
+          ],
+          "hint": "لأي مسائل بنكية عاجلة، اتصل بالبنك مباشرة عبر تطبيقه الرسمي أو رقمه الرسمي.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 95,
+          "startingCharacterMessage": "",
+          "contactTitle": "مسجل جامعة جدة",
+          "receivedMessage": "عاجل: حالة تخرجك في خطر بسبب نقص في الساعات الدراسية. يرجى تقديم السجل الأكاديمي المحدث ورسوم معالجة بقيمة 500 ريال سعودي خلال ساعتين لتأمين شهادتك:",
+          "receivedLink": "http://www.graduation.com/transcript",
+          "isVerifiedContact": false,
+          "messageTime": "11:45 ص",
+          "question": "ما هو المؤشر الرئيسي الذي يشير إلى أن هذه ربما تكون محاولة تصيد احتيالي؟",
+          "answers": [
+            {
+              "text": "الإشارة إلى خطر على حالة التخرج",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "ترسل الجامعات تنبيهات بشأن متطلبات التخرج."
+            },
+            {
+              "text": "طلب سجل أكاديمي محدث",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "تُطلب السجلات الأكاديمية عادة للتحقق من الشهادات."
+            },
+            {
+              "text": "طلب رسوم عبر رابط مع مهلة قصيرة",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "الجامعات الموثوقة لا تطلب دفع رسوم عاجلة عبر روابط نصية، خاصةً فيما يتعلق بحالة التخرج."
+            },
+            {
+              "text": "هذه الرسالة شرعية",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذه محاولة احتيال تستغل ضغوط التخرج لدفعك إلى التصرف بسرعة."
+            }
+          ],
+          "hint": "تعالج الجامعات قضايا التخرج عبر قنوات رسمية بمهل زمنية معقولة، وليس عبر رسائل نصية عاجلة مع روابط دفع.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 100,
+          "startingCharacterMessage": "",
+          "contactTitle": "لجنة زكاة مسجد الرحمة",
+          "receivedMessage": "عاجل: دفع زكاتك لشهر رمضان متأخر. ادفع خلال ساعة واحدة لضمان احتسابها قبل عيد الفطر. ادفع هنا:",
+          "receivedLink": "http://www.MasjidAl-Rahma0000.com",
+          "isVerifiedContact": false,
+          "messageTime": "9:15 م",
+          "question": "ما هو المؤشر الرئيسي الذي يشير إلى أن هذه ربما تكون محاولة تصيد احتيالي؟",
+          "answers": [
+            {
+              "text": "الإشارة إلى دفع الزكاة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "تذكّر المساجد والمنظمات الإسلامية المسلمين بدفع الزكاة."
+            },
+            {
+              "text": "الإشارة إلى رمضان وعيد الفطر",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "غالبًا ما تذكر التذكيرات الدينية الأيام والفترات المقدسة."
+            },
+            {
+              "text": "طلب الدفع خلال ساعة واحدة عبر رابط",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "المنظمات الدينية الموثوقة لا تحدد مهل زمنية عاجلة للزكاة، ولا تجمعها عادة عبر روابط نصية."
+            },
+            {
+              "text": "هذه الرسالة شرعية",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "هذه محاولة احتيال تستغل الواجبات الدينية وعجلة الشهر الكريم لدفعك إلى التصرف بسرعة."
+            }
+          ],
+          "hint": "بينما الزكاة مهمة، لا يوجد أساس ديني لمهل زمنية عاجلة كهذه. توفر المنظمات الشرعية طرقًا آمنة متنوعة لدفع الزكاة دون استعجال.",
+          "timeToSolveInSeconds": 45
+        }        
+      ]
+    },
+    {
+      "index": 5,
+      "description": "المستوى 5: تقنيات الهندسة الاجتماعية",
+      "scenarios": [
+        {
+          "scoreGainedOnCompletion": 105,
+          "startingCharacterMessage": "مرحبًا بك في المستوى 5 الذي يركز على تقنيات الهندسة الاجتماعية. الهندسة الاجتماعية هي التلاعب النفسي بالناس لجعلهم يتخذون إجراءات أو يكشفون معلومات سرية. مثال مشهور على ذلك هو خرق بيانات Uber، حيث استخدم المهاجمون الهندسة الاجتماعية للوصول إلى حساب GitHub الخاص بـ Uber، مما أدى في النهاية إلى اختراق بيانات 57 مليون مستخدم وسائق. تثبت هذه الهجمات المتطورة أن الأمن السيبراني ليس مجرد تقنية، بل يتعلق بفهم السلوك البشري وعمليات اتخاذ القرار.",
+          "contactTitle": "+966 54 555 6666",
+          "receivedMessage": "مرحبًا! أنا صديقك من الجامعة، لكن فقدت هاتفي. هل يمكنك إرسال تفاصيل حسابك البنكي لتحويل عاجل؟ أعدك بإرجاع المال!",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "3:45 م",
+          "question": "ما هو الدليل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "فقدت هاتفي",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "الأشخاص يفقدون هواتفهم؛ تحقق أولاً."
+            },
+            {
+              "text": "أرسل لي تفاصيل حسابك البنكي",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "لا تشارك تفاصيل حسابك البنكي، حتى مع الأصدقاء."
+            },
+            {
+              "text": "أعدك بإرجاع المال",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "يمكن تقديم وعود في مواقف حقيقية."
+            },
+            {
+              "text": "تحويل عاجل",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "العجلة قد تكون تكتيكًا في حالات الطوارئ الحقيقية."
+            },
+            {
+              "text": "أحتاج مساعدة",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "طلبات المساعدة يمكن أن تكون حقيقية."
+            }
+          ],
+          "hint": "تحقق دائمًا من الطلبات باستخدام وسيلة اتصال أخرى.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 110,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 54 777 8888",
+          "receivedMessage": "تهانينا! لقد تم اختيارك لعرض بيع VIP الحصري في متجرك المفضل! اضغط هنا للوصول إلى خصمك المبكر:",
+          "receivedLink": "http://www.win-a-free-giftcard.com/claim",
+          "isVerifiedContact": false,
+          "messageTime": "4:10 م",
+          "question": "ما هو الدليل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "عرض بيع VIP الحصري",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "العروض الحصرية يمكن أن تكون حقيقية."
+            },
+            {
+              "text": "اضغط هنا للوصول إلى خصمك",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "الروابط في الرسائل غير المرغوب فيها غالبًا ما تكون محاولات تصيد."
+            },
+            {
+              "text": "تهانينا!",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "رسائل التهنئة قد تكون شرعية."
+            },
+            {
+              "text": "خصم مبكر",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "الخصومات قد تكون جذابة ولكن تحقق منها."
+            },
+            {
+              "text": "عرض لفترة محدودة!",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "العجلة قد تُستخدم في عروض حقيقية."
+            }
+          ],
+          "hint": "تحقق دائمًا من موقع المتجر الرسمي للعروض.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 120,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 54 999 0000",
+          "receivedMessage": "مرحبًا! هذه تذكرة من مطعمك المفضل لدعوة خاصة لحدث خاص بالأعضاء فقط. يرجى تأكيد الحضور بتقديم تفاصيل بطاقتك.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "5:30 م",
+          "question": "ما هو الدليل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "تذكرة من مطعمك المفضل",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "قد ترسل المطاعم دعوات للفعاليات."
+            },
+            {
+              "text": "تقديم تفاصيل بطاقتك",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "المؤسسات الشرعية لن تطلب تفاصيل البطاقات عبر الرسائل النصية."
+            },
+            {
+              "text": "حدث خاص بالأعضاء فقط",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "الفعاليات الحصرية يمكن أن تكون حقيقية."
+            },
+            {
+              "text": "تأكيد الحضور",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "طلبات التأكيد يمكن أن تحدث."
+            },
+            {
+              "text": "دعوة حصرية",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "الحصرية يمكن أن تكون جزءًا من عروض حقيقية."
+            }
+          ],
+          "hint": "تحقق دائمًا من الدعوات الخاصة للفعاليات مباشرة مع المؤسسة.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 125,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 54 111 2222",
+          "receivedMessage": "تنبيه أمني هام: تم الوصول إلى حسابك من جهاز جديد. لتأمين حسابك، يرجى الرد برمز الأمان الخاص بك.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "6:15 م",
+          "question": "ما هو الدليل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "تم الوصول إلى حسابك",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "تنبيهات الوصول إلى الحساب يمكن أن تكون شرعية."
+            },
+            {
+              "text": "الرد برمز الأمان الخاص بك",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "الشركات الشرعية لن تطلب رموز الأمان عبر الرسائل النصية."
+            },
+            {
+              "text": "تنبيه أمني هام",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "التنبيهات العاجلة يمكن أن تكون حقيقية."
+            },
+            {
+              "text": "جهاز جديد",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "تنبيهات الأجهزة الجديدة شائعة."
+            },
+            {
+              "text": "اتخذ إجراءً فورياً",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "العجلة قد تكون جزءًا من التنبيهات الحقيقية."
+            }
+          ],
+          "hint": "تحقق دائمًا من إعدادات أمان الحساب عبر الموقع الرسمي أو التطبيق.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 130,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 54 333 4444",
+          "receivedMessage": "نجري استبيانًا لتحسين خدماتنا. أكمله واحصل على بطاقة هدية بقيمة 50 دولارًا! اضغط على هذا الرابط:",
+          "receivedLink": "http://www.free-giveaway.com/winner",
+          "isVerifiedContact": false,
+          "messageTime": "6:45 م",
+          "question": "ما هو الدليل على أن هذه الرسالة محاولة احتيالية؟",
+          "answers": [
+            {
+              "text": "إجراء استبيان",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "الاستبيانات قد تكون شرعية."
+            },
+            {
+              "text": "احصل على بطاقة هدية بقيمة 50 دولارًا",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "عروض بطاقات الهدايا المجانية غالبًا ما تشير إلى الاحتيال."
+            },
+            {
+              "text": "اضغط على هذا الرابط",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "الروابط في الرسائل غير المرغوب فيها غالبًا ما تكون محاولات تصيد."
+            },
+            {
+              "text": "أكمله",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "إكمال الاستبيانات يمكن أن يكون أمرًا عاديًا."
+            },
+            {
+              "text": "ساعدنا في تحسين خدماتنا",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "طلبات التحسين قد تكون حقيقية."
+            }
+          ],
+          "hint": "كن حذرًا من الاستبيانات غير المرغوب فيها التي",
+          "timeToSolveInSeconds": 45
+
+            }
+          ]
+        },{
+          "index": 6,
+          "description": "المستوى 6: سيناريوهات التصيد الاحتيالي المتقدمة",
+          "scenarios": [
+            {
+              "scoreGainedOnCompletion": 135,
+              "startingCharacterMessage": "هل تعلم؟ هجمات التصيد الاحتيالي المتقدمة، التي تستخدم تقنيات متطورة وتحسينات الذكاء الاصطناعي، أصبحت أكثر انتشارًا. في حالة بارزة عام 2019، استخدم مجرمو الإنترنت الذكاء الاصطناعي لتقليد صوت الرئيس التنفيذي، مما خدع أحد الموظفين لتحويل 243,000 دولار إلى حساب احتيالي. هذا يبرز تطور أساليب الجرائم الإلكترونية والحاجة إلى زيادة اليقظة وفهم تقنيات التلاعب التكنولوجي لمكافحة هذه التهديدات.",
+              "contactTitle": "+966 54 444 5555",
+              "receivedMessage": "عزيزي العميل، لقد اكتشفنا نشاطًا غير اعتيادي في حسابك هذا الصباح. لضمان أمان أموالك، يرجى التحقق من هويتك فورًا:",
+              "receivedLink": "http://www.verify-your-account.com/login",
+              "isVerifiedContact": false,
+              "messageTime": "3:10 م",
+              "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+              "answers": [
+                {
+                  "text": "تم اكتشاف نشاط غير اعتيادي",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "التنبيهات الشرعية قد تشير إلى نشاط غير اعتيادي."
+                },
+                {
+                  "text": "يرجى التحقق من هويتك فورًا",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "الشركات الشرعية لن تطلب التحقق الفوري عبر روابط غير موثوقة."
+                },
+                {
+                  "text": "عزيزي العميل",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "التحيات العامة شائعة في الاتصالات الحقيقية."
+                },
+                {
+                  "text": "لضمان أمان أموالك",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "الضمانات الأمنية قد تكون جزءًا من تنبيهات حقيقية."
+                },
+                {
+                  "text": "هذا الصباح",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "التوقيت المحدد قد يضيف مصداقية."
+                }
+              ],
+              "hint": "تحقق دائمًا من التنبيهات عبر تسجيل الدخول إلى حسابك من خلال الموقع الرسمي.",
+              "timeToSolveInSeconds": 35
+            },
+            {
+              "scoreGainedOnCompletion": 140,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 666 7777",
+              "receivedMessage": "مرحبًا! أنا مارك من قسم الموارد البشرية. نحن بحاجة لإجراء استبيان إجباري حول مزايا الموظفين. يرجى إكماله هنا:",
+              "receivedLink": "http://www.survey-for-a-employee.com/",
+              "isVerifiedContact": false,
+              "messageTime": "4:20 م",
+              "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+              "answers": [
+                {
+                  "text": "أنا مارك من قسم الموارد البشرية",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "طلبات الموارد البشرية قد تكون شرعية."
+                },
+                {
+                  "text": "استبيان إجباري حول مزايا الموظفين",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "الاستبيانات قد تكون جزءًا من أنشطة الموارد البشرية الحقيقية."
+                },
+                {
+                  "text": "يرجى إكماله هنا",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "الاستبيانات الشرعية لن تطلب عادةً روابط عبر الرسائل النصية."
+                },
+                {
+                  "text": "إجراء استبيان إجباري",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "الطلبات الإلزامية قد تبدو ملحة."
+                },
+                {
+                  "text": "مرحبًا!",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "التحيات العادية قد تحدث في الاتصالات الحقيقية."
+                }
+              ],
+              "hint": "تحقق من أي طلبات موارد بشرية عبر التواصل المباشر مع القسم.",
+              "timeToSolveInSeconds": 35
+            },
+            {
+              "scoreGainedOnCompletion": 145,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 888 9999",
+              "receivedMessage": "تم اختراق حساب أمازون الخاص بك! انقر على هذا الرابط لتأمين حسابك (عدم القيام بذلك قد يؤدي إلى تعليقه).",
+              "receivedLink": "http://www.Amaz0n.com/security-alert",
+              "isVerifiedContact": false,
+              "messageTime": "5:35 م",
+              "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+              "answers": [
+                {
+                  "text": "تم اختراق حساب أمازون الخاص بك",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "تنبيهات الاختراق قد تكون حقيقية."
+                },
+                {
+                  "text": "انقر على هذا الرابط لتأمين حسابك",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "الشركات الشرعية لن تطلب منك النقر على روابط في رسائل غير مرغوبة."
+                },
+                {
+                  "text": "عدم القيام بذلك قد يؤدي إلى تعليقه",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "تحذيرات التعليق قد تكون حقيقية."
+                },
+                {
+                  "text": "تأمين حسابك",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "طلبات الأمان قد تحدث."
+                },
+                {
+                  "text": "الإجراء الفوري مطلوب",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "الإلحاح قد يكون جزءًا من التنبيهات الحقيقية."
+                }
+              ],
+              "hint": "قم دائمًا بتسجيل الدخول مباشرة إلى حسابك للتحقق من إشعارات الأمان.",
+              "timeToSolveInSeconds": 35
+            },
+            {
+              "scoreGainedOnCompletion": 150,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 111 2222",
+              "receivedMessage": "تهانينا! لقد ربحت رحلة مجانية إلى باريس! لاستلام جائزتك، يرجى تأكيد هويتك بالنقر على هذا الرابط:",
+              "receivedLink": "http://www.prize-alert.com/confirm",
+              "isVerifiedContact": false,
+              "messageTime": "6:00 م",
+              "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+              "answers": [
+                {
+                  "text": "لقد ربحت رحلة مجانية",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "إذا بدا الأمر جيدًا جدًا ليكون حقيقيًا، فعادة ما يكون كذلك."
+                },
+                {
+                  "text": "لاستلام جائزتك",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "الجوائز الشرعية لا تتطلب إجراءً عبر روابط غير موثوقة."
+                },
+                {
+                  "text": "تهانينا!",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "إخطارات الفوز قد تكون حقيقية."
+                },
+                {
+                  "text": "يرجى تأكيد هويتك",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "الشركات الشرعية لن تطلب معلومات شخصية عبر رسائل غير مرغوبة."
+                },
+                {
+                  "text": "انقر على هذا الرابط",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "الروابط في الرسائل غير المرغوب فيها غالبًا ما تكون محاولات تصيد احتيالي."
+                }
+              ],
+              "hint": "لا تنقر أبدًا على الروابط في إشعارات الجوائز غير المطلوبة؛ تحقق من القنوات الرسمية.",
+              "timeToSolveInSeconds": 35
+            },
+            {
+              "scoreGainedOnCompletion": 155,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 333 4444",
+              "receivedMessage": "هذا إشعار أمني من Netflex. اكتشفنا استخدامًا غير طبيعي لحسابك. يرجى تأكيد معلومات حسابك هنا بما في ذلك كلمة المرور.",
+              "receivedLink": "",
+              "isVerifiedContact": false,
+              "messageTime": "6:45 م",
+              "question": "ما هو المؤشر الذي يدل على أن هذه الرسالة محاولة احتيالية؟",
+              "answers": [
+                {
+                  "text": "إشعار أمني من مزود الخدمة",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "مثل هذه الإشعارات قد تكون شرعية."
+                },
+                {
+                  "text": "تم اكتشاف استخدام غير طبيعي لحسابك",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "تنبيهات الاستخدام غير الطبيعي قد تحدث في سياقات حقيقية."
+                },
+                {
+                  "text": "يرجى تأكيد معلومات حسابك هنا",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "الشركات الشرعية لن تطلب معلومات الحساب عبر روابط غير مرغوب فيها."
+                },
+                {
+                  "text": "هذا إشعار أمني",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "التنبيهات الأمنية قد تكون حقيقية."
+                },
+                {
+                  "text": "تم اكتشاف استخدام غير طبيعي",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "الاستخدام غير الطبيعي قد يثير تنبيهات حقيقية."
+                }
+              ],
+              "hint": "تواصل دائمًا مع مزود الخدمة الخاص بك مباشرة للتحقق من أي إشعارات أمنية.",
+              "timeToSolveInSeconds": 35
+            }        
+          ]
+        }
+
+  ]
+}

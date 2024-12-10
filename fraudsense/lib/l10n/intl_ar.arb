@@ -1,0 +1,173 @@
+{
+    "splashScreenButton" : "أبدأ",
+    "splashScreenText" : "احمي نفسك من عمليات التصيد و الاحتيال بالواتساب",
+
+
+    "loginScreen_emailField" : "البريد الاكتروني",
+    "loginScreen_passwordField" : "الرقم السري",
+    "loginScreen_forgotPasswordText" : "نسيت الرقم السري؟",
+    "loginScreen_signInButton" : "سجل الدخول",
+    "loginScreen_createDividerText" : "انشئ",
+    "loginScreen_dontHaveAnAccountText" : "ليس لديك حساب؟",
+    "loginScreen_signUp" : "انشئ حساب",
+
+
+    "resetPasswordScreen_title" : "ادخل بريدك الاكتروني لاسترجاع الرقم السري",
+    "resetPasswordScreen_emailHint" : "البريد الاكتروني",
+    "resetPasswordScreen_emptyEmailFieldWarning" : "برجاء ادخال بريد اكتروني",
+    "resetPasswordScreen_invalidEmailFieldWarning" : "برجاء ادخل بريد اكتروني صالح",
+    "resetPasswordScreen_resetButton" : "ارسل بريد الاستعادة",
+
+
+    "signUpScreen_titleSignUpText" : "انشاء حساب",
+    "signUpScreen_titleText" : "ادخل FraudSense وابدأ التعلم",
+    "signUpScreen_surnameField" : "اسم العائلة",
+    "signUpScreen_emailField" : "بريدك",
+    "signUpScreen_usernameField" : "اسم المستخدم",
+    "signUpScreen_passwordField" : "رقمك السري",
+    "signUpScreen_confirmPasswordField" : "اكد الرقم السري",
+    "signUpScreen_getStartedButton" : "ابدأ الان",
+    "signUpScreen_alreadyAMember" : "عضو بالفعل؟",
+    "signUpScreen_login" : "سجل الدخول",
+
+    "signUpScreen_surnameFieldTitle" : "اسم عائلك",
+    "signUpScreen_emailFieldTitle" : "بريدك الاكترني",
+    "signUpScreen_UsernameFieldTitle" : "اسم المستخدم",
+    "signUpScreen_passwordFieldTitle" : "اختر رقم سري آمن",
+    "signUpScreen_confirmPasswordFieldTitle" : "اكد رقمك السري",
+
+
+    "signUpScreen_enterSurnamePopUp" : "برجاء ادخال اسم العائلة",
+    "signUpScreen_enterEmailPopUp" : "برجاء ادخل بريد اكتروني صالح",
+    "signUpScreen_enterUsernamePopUp" : "برجاء ادخال اسم مسخدم",
+    "signUpScreen_enterPasswordPopUp" : "برجاء ادخال رقم سري",
+    "signUpScreen_enterConfirmedPasswordPopUp" : "برجاء تأكيد الرقم السري",
+    "signUpScreen_passwordNotMatch" : "الرقم السري لا يتطابق",
+
+
+    "firebaseAuthErrorCodes_invalid_credential": "المعلومات التي ادخلتها غير صحيحة",
+    "firebaseAuthErrorCodes_invalid_email" : "البريد الذي ادخلته غير صالح",
+    "firebaseAuthErrorCodes_user_not_found" : "الحساب الذي ادخلته غير موجود ",
+    "firebaseAuthErrorCodes_wrong_password" : "الرقم السري الذي ادخلته غير صحيح",
+    "firebaseAuthErrorCodes_user_disabled" : "الحساب الذي تحاول الوصول له موقوف",
+    "firebaseAuthErrorCodes_email_already_in_use" : "البريد الذي ادخلته مستعمل من قبل",
+    "firebaseAuthErrorCodes_username_taken" : "اسم المستخدم الذي ادخلته تم اخذه من قبل",
+    "firebaseAuthErrorCodes_weak_password" : "الرقم السري الذي ادخلته ضعيف. يجب على الرقم السري ان يكون بالانجليزية واطول من 8 احرف ويحتوي على حرف كبير وحرف اخر صغير",
+
+    "firebaseAuthErrorCodes_long_username": "الحد الاقصى لاسم المستخدم هو 20 حرف",
+
+
+    "signOutButton_PopUpTitle" : "هل تريد تسجيل الخروج؟",
+
+    "frontTab_singedInAsText" : "مسجل الدخول كـ",
+    "frontTab_welcomeText" : "مرحبا بك يا",
+
+    "frontTab_cardPlayGameTitle" : "العب لعبة",
+    "frontTab_cardPlayGameDescription" : "تحدي مهاراتك بمعرفة الاحتيال",
+
+    "frontTab_cardLeaderboardTitle" : "عرض لوحة المتصدرين",
+    "frontTab_cardLeaderboardDescription" : "قارن مهارتك بمعرفة الاحتيال ضد اللاعبين الاخرين",
+
+    "frontTab_cardProgressTitle" : "عرض تقدمك",
+    "frontTab_cardProgressDescription" : "تتبع تقدمك وإنجازاتك",
+
+    "frontTab_statisticsTitle" : "الاحصائيات",
+    "frontTab_statisticsDescription" : "تتبع اداءك باللعبة بمعلومات مفصلة وحلل تقدمك",
+
+
+
+    "levelsTab_title" : "المراحل",
+    "levelsTab_loading" : "جاري اتحميل..",
+    "levelsTab_levelPopUpSelectedLevel" : "لقد اخترت المرحلة",
+    "levelsTab_levelPopUpLockedLevel" : "لم تقم بفتح هذه المرحلة",
+    "levelsTab_levelPopUpStartLevel" : "ابدأ المرحلة",
+
+    "profileTab_achievements" : "الإنجازات",
+    "profileTab_coins" : "العملات",
+    "profileTab_hints" : "التلميحات",
+    "profileTab_points" : "النقاط",
+    "profileTab_achievementsCompletedLevelsTitle" : "المراحل المكتملة",
+    "profileTab_achievementsCompletedLevelsBottomText" : "اكمل جميع المراحل",
+    "profileTab_achievementsPointsTitle" : "النقاط المكتسبة",
+    "profileTab_achievementsPointsBottomText1" : "اوصل لـ",
+    "profileTab_achievementsPointsBottomText2" : "نقطعة",
+    
+
+    "game_submitButton" : "تأكيد",
+    "game_popUpNext" : "التالي",
+    "game_popUpQuit" : "توقف",
+    "game_popUpExit" : "الخروج",
+    "game_popUpNextScenario" : "المحادثة التالية",
+    "game_popUpReturnToGame" : "عد الى اللعبة",
+    "game_popUpViewMistakes" : "معاينة الاخطاء",
+
+    "game_confirmQuit" : "تأكيد الخروج؟",
+
+    "game_popUpTimeRanOutTitle" : "انتهى الوقت!",
+
+    "game_popUpPauseTitle" : "لقد أوقفت اللعبة",
+    "game_popUpAlreadyFinishedScenario" : "لقد انتهيت من هذه المحادثة",
+  
+    
+    "game_hintsPopUpShowHint" : "أظهر تلميحا",
+    "game_hintsPopUpBuyHint" : "شراء تلميحا",
+    "game_hintsPopUpTitle" : "عدد التلميحات المتبقية:",
+    "game_hintsPopUpTitle1" : "هل تريد استخدام تلميح؟",
+    "game_hintsPopUpAlreadyUnlocked" : "لقد قمت بالفعل بفتح هذا التلميح",
+
+    "game_rightAnswer" : "إجابة صحيحة! اجبت خلال",
+    "game_rightAnswer1" : "ثواني",
+
+    "game_wrongAnswer" : "إجابة خاطئة!",
+
+    "game_endPopUpTitle" : "لقد أنهيت المرحلة، حصلت على",
+    "game_endPopUpTitle1" : "اجابات صحيحة من",
+    "game_endPopUpTitleAllWrong" : "لقد أنهيت المرحلة، جميع إجاباتك خاطئة",
+ 
+    
+    "game_mistakeSummaryPickedAnswer" : "لقد اخترت هذه الإجابة",
+    "game_mistakeSummaryExplanation" : "التفسير",
+
+    "game_leaderboardTitle": "لوحة المتصدرين",
+    "game_leaderboardPoints": "النقاط",
+    "game_leaderboardUsername": "اسم المستخدم",
+
+    "statisticsScreen_generalTitleText": "عام",
+    "statisticsScreen_streakTitleText": "الانتصارات",
+    "statisticsScreen_levelsTitleText": "المراحل",
+
+    "statisticsScreen_loggedDays": "ايام تسجيل الدخول",
+    "statisticsScreen_ranking": "الترتيب",
+    "statisticsScreen_currentStreak": "الانتصارات المتتالية",
+    "statisticsScreen_longestStreak": "افضل الانتصارات المتتالية",
+    "statisticsScreen_unlockedLevels": "المراحل المفتوحة",
+
+    "statisticsScreen_levelsListLevelTitle": "المرحة",
+    "statisticsScreen_levelsListFailsTitle": "مرات الفشل",
+    "statisticsScreen_levelsListSolveTimeTitle": "وقت الحل",
+    "statisticsScreen_levelsListLevelNo": "رقم",
+    "statisticsScreen_levelsListLevelFailTimes": "مرة",
+    "statisticsScreen_levelsListTitle": "المراحل المكملة",
+
+
+    "shopPopUp_canBuy": "هل تريد شراء تلميح بـ 75 عملة؟",
+    "shopPopUp_cantBuy": "لا تملك العملات الكافية لشراء تلميح",
+
+
+
+
+
+
+
+
+
+    "popUpReturn" : "ارجع",
+    "popUpConfirm" : "تأكيد",
+
+    
+    "nextButton" : "التالي",
+    "previousButton" : "السابق"
+
+    
+
+}

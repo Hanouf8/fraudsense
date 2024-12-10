@@ -1,0 +1,1084 @@
+{
+  "language": "en",
+  "levels": [
+    {
+      "index": 1,
+      "description": "Level 1: Generic Phishing Attempts",
+      "scenarios": [
+        {
+          "scoreGainedOnCompletion": 5,
+          "startingCharacterMessage": "Look carefully and pick the right answer before the timer runs out, if you get stuck you can unlock a hint. Welcome to Level 1 focusing on General Phishing Attempts. Were you aware that phishing attacks are increasingly prevalent in our digital era? According to a 2022 report from the FBI’s Cyber Crime Complaint Center, phishing has been among the top five cyber crimes for 5 years in a row, with +240,000 incidents and losses exceeding $52 million. Despite their innocent appearance, these messages can have serious consequences. By learning how to identify and thwart basic phishing attempts, you can protect yourself and your loved ones from cyber threats.",
+          "contactTitle": "+966 55 123 4567",
+          "receivedMessage": "Congratulations! You've been selected to receive a 500SAR Amazon gift card. Click here to claim:",
+          "receivedLink": "http://click-here-to-win.net/claim-your-prize",
+          "isVerifiedContact": false,
+          "messageTime": "9:00 AM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "Unknown number",
+              "isCorrect": true,
+              "explanationWhenIncorrect": ""
+            },
+            {
+              "text": "Suspicious link",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "This message is not a fraudulent attempt",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "It is a fraudulent attempt using suspicious link."
+            }
+          ],
+          "hint": "Look for red flags like unknown numbers and offers that seem too good to be true.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 10,
+          "startingCharacterMessage": "",
+          "contactTitle": "19992",
+          "receivedMessage": "If you are the owner of order No. 8987, your package is waiting for you! Click here to confirm delivery:",
+          "receivedLink": "https://splonline.com.sa/en/",
+          "isVerifiedContact": true,
+          "messageTime": "1:00 PM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "Package delivery notice",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "Is this a phishing attempt? If so, what is the indication?"
+            },
+            {
+              "text": "Suspicious link",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "This is the official link for Saudi Post SPL."
+            },
+            {
+              "text": "It's not a phishing attempt.",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            }
+          ],
+          "hint": "Look for red flags such as unexpected links or requests for personal information, even if the contact appears official.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 15,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 56 543 2109",
+          "receivedMessage": "Congratulations! You’ve been selected for a cash prize. Click the link to claim!",
+          "receivedLink": "http://cash-prize-win.com/claim",
+          "isVerifiedContact": false,
+          "messageTime": "5:30 PM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "Cash prize notification",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "Not all prize notifications are scams."
+            },
+            {
+              "text": "Suspicious link",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "This message is legitimate",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "It is a fraudulent attempt with a suspicious link."
+            }
+          ],
+          "hint": "Cash prize notifications from unknown contacts should raise immediate suspicion.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 20,
+          "startingCharacterMessage": "",
+          "contactTitle": "+963 57 234 5678",
+          "receivedMessage": "We've noticed unusual activity on your bank account. Please confirm your details to secure your account.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "11:30 AM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "Unusual activity notice",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "Such notices can be legitimate."
+            },
+            {
+              "text": "Request for personal details",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "This message is valid",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "It is a fraudulent attempt requesting sensitive information."
+            }
+          ],
+          "hint": "Legitimate companies will never ask for sensitive information via unsecured channels.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 25,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 55 123 4567",
+          "receivedMessage": "You've been randomly selected to receive a free iPhone! Reply with your address to claim.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "9:00 AM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "Urgent tone",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "Urgent tone is one of the phishing methods but it was not in this message."
+            },
+            {
+              "text": "Request for personal information",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "This message is valid",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "It is a fraudulent attempt asking for personal details."
+            }
+          ],
+          "hint": "Offers that require you to give personal information are often scams.",
+          "timeToSolveInSeconds": 45
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "description": "Level 2: Brand Impersonation",
+      "scenarios": [
+        {
+          "scoreGainedOnCompletion": 30,
+          "startingCharacterMessage": "Look carefully and pick the right answer before the timer runs out, if you get stuck you can unlock a hint. Welcome to Level 2 focusing on Brand Impersonation. Did you know that brand impersonation is a sophisticated form of phishing that exploits our trust in well-known companies? In 2020, Twitter was hacked and trusted accounts, including those of Bill Gates and Elon Musk, were impersonated to promote a Bitcoin scam. The incident resulted in over $100,000 being stolen in just a few hours.",
+          "contactTitle": "+966 50 111 2222",
+          "receivedMessage": "Dear Customer, your Netflix account is on hold due to billing issues. Please verify your payment information here:",
+          "receivedLink": "http://netflix-0000000.com/billing",
+          "isVerifiedContact": false,
+          "messageTime": "9:00 AM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "Account on hold",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "Account holds can happen for legitimate reasons."
+            },
+            {
+              "text": "Suspicious link",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "This message is valid",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "It is a fraudulent attempt using a spoofed link."
+            }
+          ],
+          "hint": "Always check the sender's details and the link before taking action.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 35,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 53 444 5555",
+          "receivedMessage": "Your Google account has been flagged for suspicious activity. Please respond with your password to verify your identity.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "1:00 PM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "Request for password",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "Account flagged",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "Account flags can happen legitimately."
+            },
+            {
+              "text": "This message is valid",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "It is a fraudulent attempt asking for sensitive information."
+            }
+          ],
+          "hint": "Never share your password in response to messages, even if they seem urgent.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 40,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 52 333 4444",
+          "receivedMessage": "Your Apple ID has been locked due to suspicious activity. Please call this number to unlock it: +966 12 345 6789.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "11:30 AM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "Call to unlock",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "Legitimate companies won't ask you to call for account issues."
+            },
+            {
+              "text": "Account locked",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "Account issues can happen."
+            },
+            {
+              "text": "This message is valid",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "It is a fraudulent attempt using a spoofed number."
+            }
+          ],
+          "hint": "Legitimate companies usually provide secure online options for account issues.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 45,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 51 222 3333",
+          "receivedMessage": "Congratulations! You've won a 100SAR gift card from Amazon. Just reply with your email to claim.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "10:15 AM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "Winning notification",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "Winning notifications can be real."
+            },
+            {
+              "text": "Request for personal details",
+              "isCorrect": true,
+              "explanationWhenIncorrect": " "
+            },
+            {
+              "text": "This message is legitimate",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "It is a fraudulent attempt asking for personal information."
+            }
+          ],
+          "hint": "Never give out personal information to claim prizes from unknown sources.",
+          "timeToSolveInSeconds": 45
+        },
+        {
+          "scoreGainedOnCompletion": 50,
+          "startingCharacterMessage": "",
+          "contactTitle": "+966 50 111 2222",
+          "receivedMessage": "Hi, it's Elon Musk! Your Tesla account needs immediate verification. Please confirm your details to avoid suspension.",
+          "receivedLink": "",
+          "isVerifiedContact": false,
+          "messageTime": "9:00 AM",
+          "question": "What was the indication that this message is a fraudulent attempt?",
+          "answers": [
+            {
+              "text": "From a famous person",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "Messages from celebrities can be real, but context matters."
+            },
+            {
+              "text": "Urgent verification required",
+              "isCorrect": true,
+              "explanationWhenIncorrect": "Legitimate companies usually don’t pressure you for immediate confirmations."
+            },
+            {
+              "text": "This message is valid",
+              "isCorrect": false,
+              "explanationWhenIncorrect": "It is a fraudulent attempt using a celebrity's name."
+            }
+          ],
+          "hint": "Be suspicious of urgent requests, even from well-known figures.",
+          "timeToSolveInSeconds": 45
+        }
+      ]
+    },
+    
+      {
+        "index": 3,
+        "description": "Level 3: Personalization Tactics",
+        "scenarios": [
+          {
+            "scoreGainedOnCompletion": 55,
+            "startingCharacterMessage": "Welcome to Level 3 focusing on Personalization Tactics. Did you know that in May 2023, a serious data breach occurred at Tesla that exposed the personal data of 75,000 individuals? This left customers vulnerable to phishing attacks due to the sensitive information leaked. These tailored approaches, known as spear-phishing, are particularly dangerous because they can appear highly convincing. Learning to spot these personalized tactics is essential for maintaining your privacy and security.",
+            "contactTitle": "+966 54 555 6666",
+            "receivedMessage": "Hello! Your Jeddah University Blackboard account is at risk. Please send your account password to secure your access.",
+            "receivedLink": "",
+            "isVerifiedContact": false,
+            "messageTime": "3:45 PM",
+            "question": "What was the indication that this message is a fraudulent attempt?",
+            "answers": [
+              {
+                "text": "Account is at risk",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Risk alerts can be real."
+              },
+              {
+                "text": "Ask about password",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "Legitimate companies won’t ask you about your password."
+              },
+              {
+                "text": "Hello!",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Generic greetings can appear in real messages."
+              },
+              {
+                "text": "This message is valid",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "It is a fraudulent attempt."
+              }
+            ],
+            "hint": "Always verify account alerts by logging in directly through the official site.",
+            "timeToSolveInSeconds": 45
+
+          },
+          {
+            "scoreGainedOnCompletion": 60,
+            "startingCharacterMessage": "",
+            "contactTitle": "+966 55 123 4567",
+            "receivedMessage": "Urgent: Your Jeddah University email storage is full. To prevent loss of important academic emails, verify your account here:",
+            "receivedLink": "https://www.uj.edu.xxsa1/",
+            "isVerifiedContact": false,
+            "messageTime": "9:05 AM",
+            "question": "What makes this message likely to be a phishing attempt?",
+            "answers": [
+              {
+                "text": "Mentioning Jeddah University email",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Using the correct institution name doesn't guarantee authenticity."
+              },
+              {
+                "text": "Warning about full email storage",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Email storage warnings can be legitimate."
+              },
+              {
+                "text": "Asking to verify account via a link",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "Legitimate IT departments typically don't ask for verification through unexpected links."
+              },
+              {
+                "text": "This message is valid",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "This is a phishing attempt using your university email information."
+              }
+            ],
+            "hint": "Official communications about university accounts should come through established, secure channels.",
+            "timeToSolveInSeconds": 45
+
+          },
+          {
+            "scoreGainedOnCompletion": 65,
+            "startingCharacterMessage": "",
+            "contactTitle": "Jeddah University Library",
+            "receivedMessage": "Hello, The book you were looking for has arrived! Please provide your student ID and credit card details to buy it.",
+            "receivedLink": "",
+            "isVerifiedContact": false,
+            "messageTime": "10:17 AM",
+            "question": "What was the indication that this message is a fraudulent attempt?",
+            "answers": [
+              {
+                "text": "Knowing the book you were looking for",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "The library does know the books we look for."
+              },
+              {
+                "text": "Requesting credit card details",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "The university library wouldn't ask for credit card information via a message."
+              },
+              {
+                "text": "Suspicious link",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "There was no suspicious link."
+              },
+              {
+                "text": "This message is legitimate",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "This is a phishing attempt exploiting your library usage."
+              }
+            ],
+            "hint": "University services usually handle payments through official channels, not through informal messages.",
+            "timeToSolveInSeconds": 45
+
+          },
+          {
+            "scoreGainedOnCompletion": 70,
+            "startingCharacterMessage": "",
+            "contactTitle": "Jeddah Season Support",
+            "receivedMessage": "Congratulations! Your recent visit to Jeddah Waterfront was our 1000th today. Claim your free VIP pass for all Jeddah Season events here:",
+            "receivedLink": "http://www.win-a-free-giftcard.com/claim",
+            "isVerifiedContact": false,
+            "messageTime": "8:45 AM",
+            "question": "What makes this message suspicious?",
+            "answers": [
+              {
+                "text": "Mentioning Jeddah Waterfront",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "The waterfront is a popular location; mentioning it doesn't make the message suspicious."
+              },
+              {
+                "text": "Offering a free VIP pass",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Events sometimes do offer prizes, but be cautious of unexpected ones."
+              },
+              {
+                "text": "Claiming to track your visit",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "Jeddah Season wouldn't typically track individual visits to public spaces."
+              },
+              {
+                "text": "This message is valid",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "This is a phishing attempt using a popular local event."
+              }
+            ],
+            "hint": "Be wary of unexpected prizes that require you to click on links, especially when they claim to have tracked your movements.",
+            "timeToSolveInSeconds": 45
+
+          },
+          {
+            "scoreGainedOnCompletion": 75,
+            "startingCharacterMessage": "",
+            "contactTitle": "Red Sea Mall Customer Service",
+            "receivedMessage": "Hello, you have won a shopping voucher worth 5000 riyals at Red Sea Mall. Just provide us with the code that was sent to your phone.",
+            "receivedLink": "",
+            "isVerifiedContact": false,
+            "messageTime": "10:30 AM",
+            "question": "What is the primary indicator that this is a phishing attempt?",
+            "answers": [
+              {
+                "text": "A suspicious link",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "There is no link in the message."
+              },
+              {
+                "text": "Offer a big prize.",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Shopping malls sometimes run promotions with big prizes."
+              },
+              {
+                "text": "Request to claim the prize by sending a code.",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "."
+              },
+              {
+                "text": "This message is legitimate.",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "This is a sophisticated phishing attempt using a popular local shopping destination."
+              }
+            ],
+            "hint": "Be wary of unexpected big prizes, especially when claimed via a link or code rather than in person.",
+            "timeToSolveInSeconds": 45
+
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "description": "Level 4: Urgency and Threats",
+        "scenarios": [
+          {
+            "scoreGainedOnCompletion": 80,
+            "startingCharacterMessage": "Welcome to Level 4 focusing on Urgency and Threats. Did you know that PayPal, one of the largest online payment systems, was attacked by hackers to steal customer account information? The criminals send thousands of emails in an attempt to scare users with a tone of urgency that they must provide their information or their accounts will be closed unless they act quickly and click on a link. The cybercriminals are then able to use this information to steal money from users’ PayPal accounts.",
+            "contactTitle": "Jeddah Traffic Police",
+            "receivedMessage": "URGENT: Your vehicle has been caught speeding on King Abdullah Road. Pay the 500 SAR fine within 1 hour to avoid license suspension:",
+            "receivedLink": "http://www.fakebank.com/security-alert",
+            "isVerifiedContact": false,
+            "messageTime": "7:15 AM",
+            "question": "What's the main indicator that this is likely a scam?",
+            "answers": [
+              {
+                "text": "Mentioning specific vehicle details",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Traffic systems do have access to vehicle information."
+              },
+              {
+                "text": "Citing a specific violation location",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Real traffic violations often include location details."
+              },
+              {
+                "text": "Demanding payment within 1 hour",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "Official fines don't require such immediate payment, especially not via a text message link."
+              },
+              {
+                "text": "This message is legitimate",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "This is a scam using urgency to pressure you into quick action."
+              }
+            ],
+            "hint": "Official traffic fines allow reasonable time for payment and use formal channels, not rushed text message links.",
+            "timeToSolveInSeconds": 45
+
+          },
+          {
+            "scoreGainedOnCompletion": 85,
+            "startingCharacterMessage": "",
+            "contactTitle": "STC Customer Service",
+            "receivedMessage": "WARNING: Your mobile service will be terminated in 30 minutes due to suspicious activity. Verify your identity immediately to prevent disconnection:",
+            "receivedLink": "http://www.Verify-your-account.com/login",
+            "isVerifiedContact": false,
+            "messageTime": "7:45 AM",
+            "question": "What makes this message suspicious?",
+            "answers": [
+              {
+                "text": "Mentioning suspicious activity",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Service providers do monitor for unusual activity."
+              },
+              {
+                "text": "Warning about service termination",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Providers may suspend service for security reasons, but usually not this quickly."
+              },
+              {
+                "text": "Demanding immediate verification via a link",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "Legitimate providers would ask you to contact them directly or log in to your account, not click a link."
+              },
+              {
+                "text": "This message is valid",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "This is a phishing attempt using the threat of service loss to provoke hasty action."
+              }
+            ],
+            "hint": "Real service providers give more time and use official channels for identity verification.",
+            "timeToSolveInSeconds": 45
+
+          },
+          {
+            "scoreGainedOnCompletion": 90,
+            "startingCharacterMessage": "",
+            "contactTitle": "Al Rajhi Bank Security",
+            "receivedMessage": "CRITICAL: Unusual 10,000 SAR transfer detected from your account. If not you, click here to block your card immediately:",
+            "receivedLink": "http://www.g00gle.com/verify",
+            "isVerifiedContact": false,
+            "messageTime": "11:20 AM",
+            "question": "Despite the urgency, what indicates this could be a phishing attempt?",
+            "answers": [
+              {
+                "text": "Mentioning a specific amount",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Banks do alert about specific suspicious transactions."
+              },
+              {
+                "text": "Warning about an unusual transfer",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Banks send alerts for potentially fraudulent activities."
+              },
+              {
+                "text": "Providing a direct link to block the card",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "Legitimate banks ask you to log in to your account directly or call their official number, not click a link."
+              },
+              {
+                "text": "This message is valid",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "This is a sophisticated phishing attempt using financial fear to provoke immediate action."
+              }
+            ],
+            "hint": "For any urgent banking issues, always contact your bank directly through their official app or phone number.",
+            "timeToSolveInSeconds": 45
+
+          },
+          {
+            "scoreGainedOnCompletion": 95,
+            "startingCharacterMessage": "",
+            "contactTitle": "Jeddah University Registrar",
+            "receivedMessage": "URGENT: Your graduation status is at risk due to a missing credit. Submit your updated transcript and 500 SAR processing fee within 2 hours to secure your degree:",
+            "receivedLink": "http://www.graduation.com/transcript",
+            "isVerifiedContact": false,
+            "messageTime": "11:45 AM",
+            "question": "What's the primary indicator that this is likely a phishing attempt?",
+            "answers": [
+              {
+                "text": "Mentioning graduation status risk",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Universities do send alerts about graduation requirements."
+              },
+              {
+                "text": "Requesting an updated transcript",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Transcripts are often needed for degree verification."
+              },
+              {
+                "text": "Demanding a fee via a link with a short deadline",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "Legitimate universities don't request urgent fee payments through text message links, especially for graduation status."
+              },
+              {
+                "text": "This message is legitimate",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "This is a scam exploiting the stress of graduation to prompt hasty action."
+              }
+            ],
+            "hint": "Universities handle graduation issues through official channels with reasonable timelines, not via urgent text messages with payment links.",
+            "timeToSolveInSeconds": 45
+
+          },
+          {
+            "scoreGainedOnCompletion": 100,
+            "startingCharacterMessage": "",
+            "contactTitle": "Masjid Al-Rahma Zakat Committee",
+            "receivedMessage": "URGENT: Your Zakat payment for Ramadan is overdue. Pay within 1 hour to ensure it's counted before Eid. Pay here:",
+            "receivedLink": "http://www.MasjidAl-Rahma0000.com",
+            "isVerifiedContact": false,
+            "messageTime": "9:15 PM",
+            "question": "What's the main red flag indicating this is likely a phishing attempt?",
+            "answers": [
+              {
+                "text": "Mentioning Zakat payment",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Mosques and Islamic organizations do remind about Zakat obligations."
+              },
+              {
+                "text": "Referencing Ramadan and Eid",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "Religious reminders often mention specific holy days and periods."
+              },
+              {
+                "text": "Demanding payment within 1 hour via a link",
+                "isCorrect": true,
+                "explanationWhenIncorrect": "Legitimate religious organizations don't set such urgent deadlines for Zakat, nor do they typically collect it through text message links."
+              },
+              {
+                "text": "This message is legitimate",
+                "isCorrect": false,
+                "explanationWhenIncorrect": "This is a scam exploiting religious obligations and the urgency of the holy month."
+              }
+            ],
+            "hint": "While Zakat is important, there's no religious basis for such urgent deadlines. Legitimate organizations provide various secure methods for Zakat payment without rushing you.",
+            "timeToSolveInSeconds": 45
+
+          }
+        ]
+      },
+      
+        {
+          "index": 5,
+          "description": "Level 5: Social Engineering Techniques",
+          "scenarios": [
+            {
+              "scoreGainedOnCompletion": 105,
+              "startingCharacterMessage": "Welcome to Level 5 focusing on Social Engineering Techniques. Social engineering is the psychological manipulation of people to get them to take actions or reveal confidential information. A famous example of this is the Uber data breach, where attackers used social engineering to gain access to Uber’s GitHub account, ultimately compromising the data of 57 million users and drivers. These sophisticated attacks prove that cybersecurity isn’t just about technology, it’s about understanding human behavior and decision-making processes.",
+              "contactTitle": "+966 54 555 6666",
+              "receivedMessage": "Hey! I’m your friend from college, but I lost my phone. Can you send me your bank details for an urgent transfer? I promise to pay you back!",
+              "receivedLink": "",
+              "isVerifiedContact": false,
+              "messageTime": "3:45 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "Lost my phone",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "People do lose their phones; verify first."
+                },
+                {
+                  "text": "Send me your bank details",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Never share bank details, even with friends."
+                },
+                {
+                  "text": "I promise to pay you back",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Promises can be made in genuine situations."
+                },
+                {
+                  "text": "Urgent transfer",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Urgency can be a tactic in real emergencies."
+                },
+                {
+                  "text": "I need help",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Requests for help can be genuine."
+                }
+              ],
+              "hint": "Always verify requests through a different communication method.",
+              "timeToSolveInSeconds": 45
+
+            },
+            {
+              "scoreGainedOnCompletion": 110,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 777 8888",
+              "receivedMessage": "Congratulations! You’ve been selected for a VIP exclusive sale at your favorite store! Click here to access your early bird discount:",
+              "receivedLink": "http://www.win-a-free-giftcard.com/claim",
+              "isVerifiedContact": false,
+              "messageTime": "4:10 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "VIP exclusive sale",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Exclusive offers can be real."
+                },
+                {
+                  "text": "Click here to access your discount",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Links in unsolicited messages are often phishing attempts."
+                },
+                {
+                  "text": "Congratulations!",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Congratulatory messages can be legitimate."
+                },
+                {
+                  "text": "Early bird discount",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Discounts can be attractive but verify them."
+                },
+                {
+                  "text": "Limited time offer!",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Urgency can be used in genuine promotions."
+                }
+              ],
+              "hint": "Always check the retailer’s official website for promotions.",
+              "timeToSolveInSeconds": 45
+
+            },
+            {
+              "scoreGainedOnCompletion": 120,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 999 0000",
+              "receivedMessage": "Hi! This is a reminder from your favorite restaurant for a special invitation to our members-only event. Please confirm your attendance by providing your card details.",
+              "receivedLink": "",
+              "isVerifiedContact": false,
+              "messageTime": "5:30 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "Reminder from your favorite restaurant",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Restaurants may send event invitations."
+                },
+                {
+                  "text": "Provide your card details",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Legitimate establishments won’t ask for card details via text."
+                },
+                {
+                  "text": "Members-only event",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Exclusive events can be real."
+                },
+                {
+                  "text": "Confirm your attendance",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Confirmation requests can happen."
+                },
+                {
+                  "text": "Exclusive invitation",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Exclusivity can be part of real promotions."
+                }
+              ],
+              "hint": "Always confirm special event invitations directly with the establishment.",
+              "timeToSolveInSeconds": 45
+
+            },
+            {
+              "scoreGainedOnCompletion": 125,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 111 2222",
+              "receivedMessage": "Important security alert: Your account was accessed from a new device. To secure your account, please reply with your security code.",
+              "receivedLink": "",
+              "isVerifiedContact": false,
+              "messageTime": "6:15 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "Your account was accessed",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Account access alerts can be legitimate."
+                },
+                {
+                  "text": "Reply with your security code",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Legitimate companies will never ask for security codes via text."
+                },
+                {
+                  "text": "Important security alert",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Urgent alerts can be real."
+                },
+                {
+                  "text": "New device",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "New device alerts are common."
+                },
+                {
+                  "text": "Take immediate action",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Urgency can be part of real alerts."
+                }
+              ],
+              "hint": "Always check your account security settings through the official website or app.",
+              "timeToSolveInSeconds": 45
+
+            },
+            {
+              "scoreGainedOnCompletion": 130,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 333 4444",
+              "receivedMessage": "We’re conducting a survey to improve our services. Complete it and receive a $50 gift card! Click this link:",
+              "receivedLink": "http://www.free-giveaway.com/winner",
+              "isVerifiedContact": false,
+              "messageTime": "6:45 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "Conducting a survey",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Surveys can be legitimate."
+                },
+                {
+                  "text": "Receive a $50 gift card",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Offers for free gift cards often indicate fraud."
+                },
+                {
+                  "text": "Click this link",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Links in unsolicited messages are often phishing attempts."
+                },
+                {
+                  "text": "Complete it",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Completing surveys can be normal."
+                },
+                {
+                  "text": "Help us improve",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Improvement requests can be genuine."
+                }
+              ],
+              "hint": "Be wary of unsolicited surveys promising rewards.",
+              "timeToSolveInSeconds": 45
+
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "description": "Level 6: Advanced Phishing Scenarios",
+          "scenarios": [
+            {
+              "scoreGainedOnCompletion": 135,
+              "startingCharacterMessage": "Did you know? Advanced phishing attacks, utilizing cutting-edge technologies and AI enhancements, are on the rise. In a notable case from 2019, cybercriminals used AI to mimic a CEO's voice, tricking an employee into transferring $243,000 to a fraudulent account. This highlights the evolving of cybercrime tactics and the need for enhanced vigilance and understanding of technology manipulation in combating such threats.",
+              "contactTitle": "+966 54 444 5555",
+              "receivedMessage": "Dear Valued Customer, we detected unusual activity in your account this morning. To ensure your funds are safe, please verify your identity immediately:",
+              "receivedLink": "http://www.verify-your-account.com/login",
+              "isVerifiedContact": false,
+              "messageTime": "3:10 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "Unusual activity detected",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Legitimate alerts may indicate unusual activity."
+                },
+                {
+                  "text": "Verify your identity immediately",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Legitimate companies will not ask for immediate verification via unsolicited links."
+                },
+                {
+                  "text": "Dear Valued Customer",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Generic salutations are common in real communications."
+                },
+                {
+                  "text": "To ensure your funds are safe",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Safety assurances can be part of real alerts."
+                },
+                {
+                  "text": "This morning",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Specific timing can add credibility."
+                }
+              ],
+              "hint": "Always verify alerts by logging into your account through the official site.",
+              "timeToSolveInSeconds": 35
+
+            },
+            {
+              "scoreGainedOnCompletion": 140,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 666 7777",
+              "receivedMessage": "Hi! This is Mark from your HR department. We need to conduct a mandatory survey about employee benefits. Please complete it here:",
+              "receivedLink": "http://www.survey-for-a-employee.com/",
+              "isVerifiedContact": false,
+              "messageTime": "4:20 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "This is Mark from your HR department",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "HR requests can be legitimate."
+                },
+                {
+                  "text": "Mandatory survey about employee benefits",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Surveys can be part of real HR activities."
+                },
+                {
+                  "text": "Please complete it here",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Legitimate surveys will not typically request links via text."
+                },
+                {
+                  "text": "Conduct a mandatory survey",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Mandatory requests can seem urgent."
+                },
+                {
+                  "text": "Hi!",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Casual greetings can occur in real communications."
+                }
+              ],
+              "hint": "Verify any HR requests by contacting your HR department directly.",
+              "timeToSolveInSeconds": 35
+
+            },
+            {
+              "scoreGainedOnCompletion": 145,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 888 9999",
+              "receivedMessage": "Your Amazon account has been compromised! Click this link to secure your account (Failure to do so may result in suspension).",
+              "receivedLink": "http://www.Amaz0n.com/security-alert",
+              "isVerifiedContact": false,
+              "messageTime": "5:35 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "Your Amazon account has been compromised",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Compromise alerts can be real."
+                },
+                {
+                  "text": "Click this link to secure your account",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Legitimate companies will not ask you to click links in unsolicited messages."
+                },
+                {
+                  "text": "Failure to do so may result in suspension",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Suspension warnings can be genuine."
+                },
+                {
+                  "text": "Securing your account",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Security requests can happen."
+                },
+                {
+                  "text": "Urgent action required",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Urgency can be a tactic in real alerts."
+                }
+              ],
+              "hint": "Always log in directly to your account to check for security notifications.",
+              "timeToSolveInSeconds": 35
+
+            },
+            {
+              "scoreGainedOnCompletion": 150,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 111 2222",
+              "receivedMessage": "Congratulations! You've won a free trip to Paris! To claim your prize, please confirm your identity by clicking this link:",
+              "receivedLink": "http://www.prize-alert.com/confirm",
+              "isVerifiedContact": false,
+              "messageTime": "6:00 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "You've won a free trip",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "If it sounds too good to be true, it usually is."
+                },
+                {
+                  "text": "To claim your prize",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Legitimate prizes don’t require action via unsolicited links."
+                },
+                {
+                  "text": "Congratulations!",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Winning notifications can be real."
+                },
+                {
+                  "text": "Please confirm your identity",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Legitimate companies will not ask for personal information via unsolicited messages."
+                },
+                {
+                  "text": "Click this link",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Links in unsolicited messages are often phishing attempts."
+                }
+              ],
+              "hint": "Never click on links in unsolicited prize notifications; verify through official channels.",
+              "timeToSolveInSeconds": 35
+
+            },
+            {
+              "scoreGainedOnCompletion": 155,
+              "startingCharacterMessage": "",
+              "contactTitle": "+966 54 333 4444",
+              "receivedMessage": "This is a security notification from Netflex. We detected abnormal usage on your account. Please confirm your account information here including the password.",
+              "receivedLink": "",
+              "isVerifiedContact": false,
+              "messageTime": "6:45 PM",
+              "question": "What was the indication that this message is a fraudulent attempt?",
+              "answers": [
+                {
+                  "text": "Security notification from your internet service provider",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Such notifications can be legitimate."
+                },
+                {
+                  "text": "Detected abnormal usage on your account",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Usage alerts can happen in real contexts."
+                },
+                {
+                  "text": "Please confirm your account information here",
+                  "isCorrect": true,
+                  "explanationWhenIncorrect": "Legitimate companies will not ask for account information via unsolicited links."
+                },
+                {
+                  "text": "This is a security notification",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Security alerts can be genuine."
+                },
+                {
+                  "text": "Detected abnormal usage",
+                  "isCorrect": false,
+                  "explanationWhenIncorrect": "Abnormal usage can trigger real alerts."
+                }
+              ],
+              "hint": "Always contact your service provider directly to verify any security notifications.",
+              "timeToSolveInSeconds": 35 
+
+            }
+          ]
+        }
+      ]
+    }
+    
